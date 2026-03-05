@@ -61,4 +61,3 @@
 
 ![img_1.png](images/test_2.png)
 
-![ERD](ERD.pdf)
